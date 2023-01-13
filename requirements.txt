@@ -1,1 +1,9 @@
+altair
+pandas
+pip
+pillow
+pdflatex
+subprocess
+
+
 
